@@ -11,7 +11,6 @@
 
 * 2012- Software Engineer at Nokia Solutions and Networks
 * 2011  Remote work experience, created website for <http://www.manna.sk>
-* 2010  Physics tutoring as a student at Science University of Pécs
 
 
 # Education
@@ -23,7 +22,7 @@
 
 * 2012 [edX CS188.1x Artificial Intelligence course][AICourse]
 * 2006 European Computer Driving License
-* 2005 Számítástechnikai Szoftver-üzemeltető és Webtervező (Computer Software Operator and Web Designer)
+* 2005 Computer Software Operator and Web Designer
 
 # Skills and competencies
 
@@ -33,12 +32,6 @@
 * Git
 * Agile practices
 * Test Driven Development
-
-# Skills I don't want to utilize
-
-* C++: Too bloated for a human mind to comprehend.
-* ClearCase: Stochastic version control from the last century.
-* Working with legacy systems: Just no.
 
 # Language skills
 

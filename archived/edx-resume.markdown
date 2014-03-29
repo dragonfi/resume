@@ -34,12 +34,6 @@
 * Agile practices
 * Test Driven Development
 
-# Skills I don't want to utilize
-
-* C++: Too bloated for a human mind to comprehend.
-* ClearCase: Stochastic version control from the last century.
-* Working with legacy systems: Just no.
-
 # Language skills
 
 * Hungarian, native language.
