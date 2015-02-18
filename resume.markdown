@@ -9,7 +9,8 @@
 
 # Work experience
 
-* 2012- Software Engineer at Nokia Solutions and Networks
+* 2014- Open Source Developer as a Freelancer
+* 2012-2014 Software Engineer at Nokia Solutions and Networks
 * 2011  Remote work experience, created website for <http://www.manna.sk>
 * 2010  Physics tutoring as a student at Science University of Pécs
 
@@ -28,8 +29,8 @@
 # Skills and competencies
 
 * Linux, UNIX systems
-* C, C++, Python, Go
-* HTML, LaTeX, markdown
+* C, C++, Python, Go, JavaScript
+* Django, HTML5, LaTeX, markdown
 * Git
 * Agile practices
 * Test Driven Development
