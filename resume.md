@@ -31,7 +31,7 @@
 * Linux, UNIX systems
 * C, C++, Python, Go, JavaScript
 * Django, HTML5, LaTeX, markdown
-* Git
+* Git, Gihtub
 * Agile practices
 * Test Driven Development
 

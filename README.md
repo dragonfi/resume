@@ -1,5 +1,11 @@
 # resume
+
 My resume and scripts to build it.
 
-I'm not expecting this to be useful to anyone,
-on the other hand, I'm not particularly secretive about it either.
+I'm not expecting this to be useful to anyone.
+On the other hand, I'm not particularly secretive about it either.
+
+# Build
+
+To build it, you must have `pandoc` installed, and all the necessary LaTeX
+packages to compile to pdf.
