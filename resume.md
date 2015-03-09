@@ -1,6 +1,6 @@
 # Personal information
 
-* Name: Dávid Bodor
+* Name: Dávid Gábor Bodor
 * Date of birth: 1988-04-03
 * Address: Hungary, Hosszúhetény, Ormándi u. 60.
 * E-mail: david.gabor.bodor@gmail.com
