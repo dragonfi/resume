@@ -27,6 +27,23 @@ Personal information
 
 __ http://hu.linkedin.com/pub/d%C3%A1vid-g%C3%A1bor-bodor/35/aa2/67
 
+Skills and competencies
+-----------------------
+
+* Linux, UNIX systems
+* C, C++, Python, Go, JavaScript
+* Django, HTML5, LaTeX, markdown
+* Git, Gihtub
+* Agile practices
+* Test Driven Development
+
+Language skills
+---------------
+
+* Hungarian, native language.
+* English, intermediate level.
+
+
 Work experience
 ---------------
 
@@ -51,21 +68,6 @@ Additional courses
 
 __ https://www.edx.org/course/uc-berkeleyx/uc-berkeleyx-cs188-1x-artificial-579
 
-Language skills
----------------
-
-* Hungarian, native language.
-* English, intermediate level.
-
-Skills and competencies
------------------------
-
-* Linux, UNIX systems
-* C, C++, Python, Go, JavaScript
-* Django, HTML5, LaTeX, markdown
-* Git, Gihtub
-* Agile practices
-* Test Driven Development
 
 Skills I don't want to utilize
 ------------------------------
