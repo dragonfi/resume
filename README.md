@@ -7,5 +7,4 @@ On the other hand, I'm not particularly secretive about it either.
 
 # Build
 
-To build it, you must have `pandoc` installed, and all the necessary LaTeX
-packages to compile to pdf.
+To build it, you must have `rst2pdf` and `rst2htlm` installed.

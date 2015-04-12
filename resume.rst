@@ -31,8 +31,8 @@ Skills and competencies
 -----------------------
 
 * Linux, UNIX systems
-* C, C++, Python, Go, JavaScript
-* Django, HTML5, LaTeX, markdown
+* C, C++, Python, Go, JavaScript, Django
+* HTML5, LaTeX, markdown, ReStructuredText
 * Git, Gihtub
 * Agile practices
 * Test Driven Development
