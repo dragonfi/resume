@@ -19,7 +19,7 @@ Personal information
 --------------------
 
 :Name: Dávid Gábor Bodor
-:Address: Hungary, Hosszúhetény, Ormándi u. 60.
+:Address: Hungary, 1214 Budapest, Béke tér 8.
 :E-mail: david.gabor.bodor@gmail.com
 :Telephone: +3630/306-7283
 :GitHub: http://www.github.com/dragonfi
@@ -31,11 +31,14 @@ Skills and competencies
 -----------------------
 
 * Linux, UNIX systems
-* C, C++, Python, Go, JavaScript, Django
+* C, C++, Python, Scala, Go
+* Elm, JavaScript
+* Hyde, Hugo, Django
 * HTML5, LaTeX, markdown, ReStructuredText
 * Git, Gihtub
 * Agile practices
 * Test Driven Development
+
 
 Language skills
 ---------------
@@ -46,12 +49,16 @@ Language skills
 
 Work experience
 ---------------
-
-:2014-: Python Developer as a Freelancer
+:2015-2017: Software Engineer at Balabit
+:2014-2015: Python Developer as a Freelancer
 :2012-2014: Software Engineer at Nokia Solutions and Networks
 :2011:  Remote work experience, created website http://www.manna.sk
 :2010:  Physics tutoring as a student at Science University of Pécs
 
+Volunteer Experience
+--------------------
+
+:2015 Nov.: Mentor at Skool
 
 Education
 ---------
@@ -62,16 +69,16 @@ Education
 Additional courses
 ------------------
 
+:2015: `edX 16.00x Introduction to Aerospace Engineering: Astronautics and Human Spaceflight`__
 :2012: `edX CS188.1x Artificial Intelligence course`__
 :2006: European Computer Driving License
 :2005: Számítástechnikai Szoftver-üzemeltető és Webtervező (Computer Software Operator and Web Designer)
 
+__ https://www.edx.org/course/introduction-aerospace-engineering-mitx-16-00x-0
 __ https://www.edx.org/course/uc-berkeleyx/uc-berkeleyx-cs188-1x-artificial-579
 
 
 Skills I don't want to utilize
 ------------------------------
 
-* C++: Too bloated for a human mind to comprehend.
 * ClearCase: Stochastic version control from the last century.
-* Working with legacy systems: Just no.
