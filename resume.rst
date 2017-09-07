@@ -1,9 +1,8 @@
-.. image:: profile_image.jpg
+.. image:: davidbodor.png
     :align: right
+    :width: 12em
 
 ::
-
-    To quote a few of the great ones:
 
     "Simplicity is the ultimate sophistication."
     -- Disputed, generally attributed to Leonardo da Vinci
@@ -14,6 +13,7 @@
 
     >>> import this #doctest:+ELLIPSIS
     The Zen of Python...
+
 
 Personal information
 --------------------
