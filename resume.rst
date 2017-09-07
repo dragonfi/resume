@@ -30,15 +30,12 @@ __ http://hu.linkedin.com/pub/d%C3%A1vid-g%C3%A1bor-bodor/35/aa2/67
 Skills and competencies
 -----------------------
 
-* Linux, UNIX systems
-* C, C++, Python, Scala, Go
-* Elm, JavaScript
-* Hyde, Hugo, Django
-* HTML5, LaTeX, markdown, ReStructuredText
-* Git, Gihtub
-* Agile practices
 * Test Driven Development
-
+* Agile practices
+* Linux, UNIX systems
+* C, C++, Python, Scala, Go, Clojure
+* Elm, JavaScript, HTML5, Django
+* Git
 
 Language skills
 ---------------
