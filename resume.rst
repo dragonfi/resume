@@ -19,7 +19,7 @@ Personal information
 --------------------
 
 :Name: Dávid Gábor Bodor
-:Address: Hungary, 1214 Budapest, Béke tér 8.
+:Address: Hungary, 1214 Budapest, Béke tér 8. fsz. 2
 :E-mail: david.gabor.bodor@gmail.com
 :Telephone: +3630/306-7283
 :GitHub: http://www.github.com/dragonfi
