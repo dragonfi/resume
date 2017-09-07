@@ -43,8 +43,8 @@ Skills and competencies
 Language skills
 ---------------
 
-* Hungarian, native language.
-* English, intermediate level.
+* Hungarian, native language
+* English, intermediate level
 
 
 Work experience
@@ -52,8 +52,8 @@ Work experience
 :2015-2017: Software Engineer at Balabit
 :2014-2015: Python Developer as a Freelancer
 :2012-2014: Software Engineer at Nokia Solutions and Networks
-:2011:  Remote work experience, created website http://www.manna.sk
-:2010:  Physics tutoring as a student at Science University of Pécs
+:2011: Remote work experience, created website http://www.manna.sk
+:2010: Physics tutoring as a student at Science University of Pécs
 
 Volunteer Experience
 --------------------
