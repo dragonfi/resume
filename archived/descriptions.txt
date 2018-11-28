@@ -21,3 +21,13 @@ With a passion for games, science and education, I'm always looking to hone my s
 Having 6+ years of experience in the software industry, I have experience with building robust software in multiple languages.
 
 I'm also well versed in agile and extreme programming practices. For you, this means fast feedback, quick iterations and frequently released working prototypes.
+
+---
+
+Curious, kind, idealist. Coming from a physics education I'm a fast learner who can tacle hard problems and strive for the simplest solution possible.
+
+My work philosophy is that the more pieces you add to a machine, the more there is that can break, be it a small board game or a not-that-small software project. So, keeping the pieces to the minimum is a must.
+
+It's also important for me to help others. Even if it's just a nice user interface or a fun little game.
+
+As such, I can do wonders, given that the task is interesting to me or benefical to someone.
