@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:creation-date>2017-09-09T19:19:19.216836221</meta:creation-date><meta:editing-duration>PT3H47M42S</meta:editing-duration><meta:editing-cycles>44</meta:editing-cycles><meta:generator>LibreOffice/6.0.7.3$Linux_X86_64 LibreOffice_project/00m0$Build-3</meta:generator><dc:date>2019-04-02T13:02:51.160532952</dc:date><meta:document-statistic meta:table-count="7" meta:image-count="1" meta:object-count="0" meta:page-count="2" meta:paragraph-count="72" meta:word-count="341" meta:character-count="2496" meta:non-whitespace-character-count="2238"/></office:meta>
+ <office:meta><meta:creation-date>2017-09-09T19:19:19.216836221</meta:creation-date><meta:editing-duration>PT4H2M1S</meta:editing-duration><meta:editing-cycles>46</meta:editing-cycles><meta:generator>LibreOffice/6.0.7.3$Linux_X86_64 LibreOffice_project/00m0$Build-3</meta:generator><dc:date>2020-03-06T17:06:11.761244711</dc:date><meta:document-statistic meta:table-count="7" meta:image-count="1" meta:object-count="0" meta:page-count="2" meta:paragraph-count="74" meta:word-count="352" meta:character-count="2583" meta:non-whitespace-character-count="2317"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
    <config:config-item config:name="ViewAreaTop" config:type="long">0</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
-   <config:config-item config:name="ViewAreaWidth" config:type="long">41012</config:config-item>
-   <config:config-item config:name="ViewAreaHeight" config:type="long">18258</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">33957</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">15150</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">17124</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">27808</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">7976</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">2424</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
      <config:config-item config:name="VisibleTop" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleRight" config:type="long">41010</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">18256</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">33955</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">15148</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -41,7 +41,7 @@
    <config:config-item config:name="AlignTabStopPosition" config:type="boolean">true</config:config-item>
    <config:config-item config:name="PrintLeftPages" config:type="boolean">true</config:config-item>
    <config:config-item config:name="IgnoreFirstLineIndentInNumbering" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrinterSetup" config:type="base64Binary">kQH+/0dlbmVyaWMgUHJpbnRlcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU0dFTlBSVAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAsgAAAAAAAAAEAAhSAAAEdAAASm9iRGF0YSAxCnByaW50ZXI9R2VuZXJpYyBQcmludGVyCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCm1hcmdpbmRhanVzdG1lbnQ9MCwwLDAsMApjb2xvcmRlcHRoPTI0CnBzbGV2ZWw9MApwZGZkZXZpY2U9MApjb2xvcmRldmljZT0wClBQRENvbnRleERhdGEKRHVwbGV4Ok5vbmUAUGFnZVNpemU6QTQAABIAQ09NUEFUX0RVUExFWF9NT0RFDwBEdXBsZXhNb2RlOjpPZmY=</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">lwH+/0hMLTEyMTBXLXNlcmllcwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1VQUzpITC0xMjEwVy1zZXJpZXMAAAAAAAAAAAAAAAAWAAMAtAAAAAAAAgAEAAhSAAAEdAAASm9iRGF0YSAxCnByaW50ZXI9SEwtMTIxMFctc2VyaWVzCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCmNvbGxhdGU9ZmFsc2UKbWFyZ2luZGFqdXN0bWVudD0wLDAsMCwwCmNvbG9yZGVwdGg9MjQKcHNsZXZlbD0wCnBkZmRldmljZT0xCmNvbG9yZGV2aWNlPTAKUFBEQ29udGV4RGF0YQpQYWdlU2l6ZTpBNAAAEgBDT01QQVRfRFVQTEVYX01PREUTAER1cGxleE1vZGU6OlVua25vd24=</config:config-item>
    <config:config-item config:name="CollapseEmptyCellPara" config:type="boolean">true</config:config-item>
    <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
    <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
@@ -71,7 +71,7 @@
    <config:config-item config:name="EmbeddedDatabaseName" config:type="string"/>
    <config:config-item config:name="FloattableNomargins" config:type="boolean">false</config:config-item>
    <config:config-item config:name="BackgroundParaOverDrawings" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrinterName" config:type="string">Generic Printer</config:config-item>
+   <config:config-item config:name="PrinterName" config:type="string">HL-1210W-series</config:config-item>
    <config:config-item config:name="UseFormerObjectPositioning" config:type="boolean">false</config:config-item>
    <config:config-item config:name="TabOverMargin" config:type="boolean">false</config:config-item>
    <config:config-item config:name="SaveGlobalDocumentLinks" config:type="boolean">false</config:config-item>
@@ -92,7 +92,7 @@
    <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
    <config:config-item config:name="TabAtLeftIndentForParagraphsInList" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PrintRightPages" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">3471184</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">3680338</config:config-item>
    <config:config-item config:name="MathBaselineAlignment" config:type="boolean">true</config:config-item>
    <config:config-item config:name="MsWordCompTrailingBlanks" config:type="boolean">false</config:config-item>
    <config:config-item config:name="InvertBorderSpacing" config:type="boolean">false</config:config-item>
@@ -438,10 +438,22 @@
   <style:style style:name="Table3.A1" style:family="table-cell">
    <style:table-cell-properties fo:padding="0.097cm" fo:border="none"/>
   </style:style>
-  <style:style style:name="Table3.B7" style:family="table-cell">
+  <style:style style:name="Table3.B9" style:family="table-cell">
    <style:table-cell-properties fo:background-color="transparent" fo:padding="0.097cm" fo:border="none">
     <style:background-image/>
    </style:table-cell-properties>
+  </style:style>
+  <style:style style:name="Table4" style:family="table">
+   <style:table-properties style:width="18.002cm" table:align="margins"/>
+  </style:style>
+  <style:style style:name="Table4.A" style:family="table-column">
+   <style:table-column-properties style:column-width="2.491cm" style:rel-column-width="9066*"/>
+  </style:style>
+  <style:style style:name="Table4.B" style:family="table-column">
+   <style:table-column-properties style:column-width="15.512cm" style:rel-column-width="56469*"/>
+  </style:style>
+  <style:style style:name="Table4.A1" style:family="table-cell">
+   <style:table-cell-properties fo:padding="0.097cm" fo:border="none"/>
   </style:style>
   <style:style style:name="Table5" style:family="table">
    <style:table-properties style:width="18.002cm" table:align="margins"/>
@@ -488,18 +500,6 @@
    <style:table-cell-properties fo:background-color="transparent" fo:padding="0.097cm" fo:border="none">
     <style:background-image/>
    </style:table-cell-properties>
-  </style:style>
-  <style:style style:name="Table4" style:family="table">
-   <style:table-properties style:width="18.002cm" table:align="margins"/>
-  </style:style>
-  <style:style style:name="Table4.A" style:family="table-column">
-   <style:table-column-properties style:column-width="2.491cm" style:rel-column-width="9066*"/>
-  </style:style>
-  <style:style style:name="Table4.B" style:family="table-column">
-   <style:table-column-properties style:column-width="15.512cm" style:rel-column-width="56469*"/>
-  </style:style>
-  <style:style style:name="Table4.A1" style:family="table-cell">
-   <style:table-cell-properties fo:padding="0.097cm" fo:border="none"/>
   </style:style>
   <style:style style:name="P1" style:family="paragraph" style:parent-style-name="Standard">
    <loext:graphic-properties draw:fill="none"/>
@@ -589,91 +589,112 @@
    <style:text-properties fo:language="en" fo:country="US" officeooo:rsid="0031081b" officeooo:paragraph-rsid="00339c22"/>
   </style:style>
   <style:style style:name="P16" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:text-properties fo:language="en" fo:country="US" officeooo:paragraph-rsid="00339c22"/>
+   <style:text-properties fo:language="en" fo:country="US" officeooo:rsid="0031081b" officeooo:paragraph-rsid="0034f750"/>
   </style:style>
   <style:style style:name="P17" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties fo:language="en" fo:country="US" officeooo:paragraph-rsid="00339c22"/>
+  </style:style>
+  <style:style style:name="P18" style:family="paragraph" style:parent-style-name="Heading_20_1">
    <style:paragraph-properties>
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties fo:language="en" fo:country="US" officeooo:paragraph-rsid="00339c22"/>
   </style:style>
-  <style:style style:name="P18" style:family="paragraph" style:parent-style-name="Heading_20_1">
+  <style:style style:name="P19" style:family="paragraph" style:parent-style-name="Heading_20_1">
    <style:text-properties officeooo:paragraph-rsid="00339c22"/>
-  </style:style>
-  <style:style style:name="P19" style:family="paragraph" style:parent-style-name="Definition_20_Description">
-   <style:text-properties officeooo:paragraph-rsid="0009f927"/>
   </style:style>
   <style:style style:name="P20" style:family="paragraph" style:parent-style-name="Definition_20_Description">
-   <style:text-properties fo:language="en" fo:country="US"/>
+   <style:text-properties officeooo:paragraph-rsid="0009f927"/>
   </style:style>
   <style:style style:name="P21" style:family="paragraph" style:parent-style-name="Definition_20_Description">
-   <style:text-properties fo:language="en" fo:country="US" officeooo:paragraph-rsid="0009f927"/>
+   <style:text-properties fo:language="en" fo:country="US"/>
   </style:style>
   <style:style style:name="P22" style:family="paragraph" style:parent-style-name="Definition_20_Description">
-   <style:text-properties fo:language="en" fo:country="US" officeooo:rsid="002c8669" officeooo:paragraph-rsid="002c8669"/>
+   <style:text-properties fo:language="en" fo:country="US" officeooo:paragraph-rsid="0009f927"/>
   </style:style>
   <style:style style:name="P23" style:family="paragraph" style:parent-style-name="Definition_20_Description">
-   <style:text-properties fo:language="en" fo:country="US" fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
-  </style:style>
-  <style:style style:name="P24" style:family="paragraph" style:parent-style-name="Definition_20_Description">
-   <style:text-properties fo:language="en" fo:country="US" fo:font-weight="bold" officeooo:rsid="002c8669" officeooo:paragraph-rsid="002c8669" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
-  </style:style>
-  <style:style style:name="P25" style:family="paragraph" style:parent-style-name="Definition_20_Description">
-   <style:text-properties fo:language="en" fo:country="US" fo:font-weight="bold" officeooo:rsid="002c8669" officeooo:paragraph-rsid="00339c22" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
-  </style:style>
-  <style:style style:name="P26" style:family="paragraph" style:parent-style-name="Definition_20_Description">
-   <style:text-properties fo:language="en" fo:country="US" officeooo:paragraph-rsid="0031081b"/>
-  </style:style>
-  <style:style style:name="P27" style:family="paragraph" style:parent-style-name="Definition_20_Description">
-   <style:text-properties fo:language="en" fo:country="US" fo:font-weight="normal" officeooo:paragraph-rsid="0032e972" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
-  </style:style>
-  <style:style style:name="P28" style:family="paragraph" style:parent-style-name="Definition_20_Description">
-   <style:text-properties fo:language="en" fo:country="US" fo:font-weight="normal" officeooo:rsid="00339c22" officeooo:paragraph-rsid="00339c22" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
-  </style:style>
-  <style:style style:name="P29" style:family="paragraph" style:parent-style-name="Definition_20_Description">
-   <style:text-properties fo:language="en" fo:country="US" officeooo:paragraph-rsid="00339c22"/>
-  </style:style>
-  <style:style style:name="P30" style:family="paragraph" style:parent-style-name="Definition_20_Description">
-   <style:text-properties officeooo:paragraph-rsid="0031081b"/>
-  </style:style>
-  <style:style style:name="P31" style:family="paragraph" style:parent-style-name="Definition_20_Description">
-   <style:text-properties fo:font-weight="normal" officeooo:rsid="00339c22" officeooo:paragraph-rsid="00339c22" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
-  </style:style>
-  <style:style style:name="P32" style:family="paragraph" style:parent-style-name="Definition_20_Description">
-   <style:text-properties officeooo:paragraph-rsid="00339c22"/>
-  </style:style>
-  <style:style style:name="P33" style:family="paragraph" style:parent-style-name="Definition_20_Description">
-   <style:text-properties officeooo:rsid="00339c22" officeooo:paragraph-rsid="00339c22"/>
-  </style:style>
-  <style:style style:name="P34" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties fo:language="en" fo:country="US"/>
-  </style:style>
-  <style:style style:name="P35" style:family="paragraph" style:parent-style-name="Definition_20_Heading">
-   <style:text-properties fo:language="en" fo:country="US"/>
-  </style:style>
-  <style:style style:name="P36" style:family="paragraph" style:parent-style-name="Definition_20_Heading">
    <style:text-properties fo:language="en" fo:country="US" officeooo:rsid="002c8669" officeooo:paragraph-rsid="002c8669"/>
   </style:style>
-  <style:style style:name="P37" style:family="paragraph" style:parent-style-name="Definition_20_Heading">
-   <style:text-properties fo:language="en" fo:country="US" officeooo:paragraph-rsid="0031081b"/>
-  </style:style>
-  <style:style style:name="P38" style:family="paragraph" style:parent-style-name="Definition_20_Heading">
-   <style:text-properties fo:language="en" fo:country="US" officeooo:paragraph-rsid="00339c22"/>
-  </style:style>
-  <style:style style:name="P39" style:family="paragraph" style:parent-style-name="Definition_20_Heading">
-   <style:text-properties fo:language="en" fo:country="US" officeooo:rsid="00339c22" officeooo:paragraph-rsid="00339c22"/>
-  </style:style>
-  <style:style style:name="P40" style:family="paragraph" style:parent-style-name="Text_20_body">
+  <style:style style:name="P24" style:family="paragraph" style:parent-style-name="Definition_20_Description">
    <style:text-properties fo:language="en" fo:country="US" fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="P41" style:family="paragraph" style:parent-style-name="Text_20_body">
+  <style:style style:name="P25" style:family="paragraph" style:parent-style-name="Definition_20_Description">
+   <style:text-properties fo:language="en" fo:country="US" fo:font-weight="bold" officeooo:rsid="002c8669" officeooo:paragraph-rsid="002c8669" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P26" style:family="paragraph" style:parent-style-name="Definition_20_Description">
+   <style:text-properties fo:language="en" fo:country="US" fo:font-weight="bold" officeooo:rsid="002c8669" officeooo:paragraph-rsid="00339c22" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P27" style:family="paragraph" style:parent-style-name="Definition_20_Description">
+   <style:text-properties fo:language="en" fo:country="US" fo:font-weight="bold" officeooo:rsid="0034f750" officeooo:paragraph-rsid="0034f750" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P28" style:family="paragraph" style:parent-style-name="Definition_20_Description">
+   <style:text-properties fo:language="en" fo:country="US" officeooo:paragraph-rsid="0031081b"/>
+  </style:style>
+  <style:style style:name="P29" style:family="paragraph" style:parent-style-name="Definition_20_Description">
+   <style:text-properties fo:language="en" fo:country="US" fo:font-weight="normal" officeooo:paragraph-rsid="0032e972" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P30" style:family="paragraph" style:parent-style-name="Definition_20_Description">
+   <style:text-properties fo:language="en" fo:country="US" fo:font-weight="normal" officeooo:rsid="00339c22" officeooo:paragraph-rsid="00339c22" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P31" style:family="paragraph" style:parent-style-name="Definition_20_Description">
+   <style:text-properties fo:language="en" fo:country="US" fo:font-weight="normal" officeooo:rsid="002c8669" officeooo:paragraph-rsid="00339c22" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P32" style:family="paragraph" style:parent-style-name="Definition_20_Description">
+   <style:text-properties fo:language="en" fo:country="US" officeooo:paragraph-rsid="00339c22"/>
+  </style:style>
+  <style:style style:name="P33" style:family="paragraph" style:parent-style-name="Definition_20_Description">
+   <style:text-properties officeooo:paragraph-rsid="0031081b"/>
+  </style:style>
+  <style:style style:name="P34" style:family="paragraph" style:parent-style-name="Definition_20_Description">
+   <style:text-properties fo:font-weight="normal" officeooo:rsid="00339c22" officeooo:paragraph-rsid="00339c22" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P35" style:family="paragraph" style:parent-style-name="Definition_20_Description">
+   <style:text-properties officeooo:paragraph-rsid="00339c22"/>
+  </style:style>
+  <style:style style:name="P36" style:family="paragraph" style:parent-style-name="Definition_20_Description">
+   <style:text-properties officeooo:rsid="00339c22" officeooo:paragraph-rsid="00339c22"/>
+  </style:style>
+  <style:style style:name="P37" style:family="paragraph" style:parent-style-name="Definition_20_Description">
+   <style:text-properties style:text-underline-style="none" officeooo:rsid="00339c22" officeooo:paragraph-rsid="00339c22"/>
+  </style:style>
+  <style:style style:name="P38" style:family="paragraph" style:parent-style-name="Definition_20_Description">
+   <style:text-properties officeooo:paragraph-rsid="0034f750"/>
+  </style:style>
+  <style:style style:name="P39" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:language="en" fo:country="US"/>
+  </style:style>
+  <style:style style:name="P40" style:family="paragraph" style:parent-style-name="Definition_20_Heading">
+   <style:text-properties fo:language="en" fo:country="US"/>
+  </style:style>
+  <style:style style:name="P41" style:family="paragraph" style:parent-style-name="Definition_20_Heading">
+   <style:text-properties fo:language="en" fo:country="US" officeooo:rsid="002c8669" officeooo:paragraph-rsid="002c8669"/>
+  </style:style>
+  <style:style style:name="P42" style:family="paragraph" style:parent-style-name="Definition_20_Heading">
+   <style:text-properties fo:language="en" fo:country="US" officeooo:rsid="002c8669" officeooo:paragraph-rsid="0034f750"/>
+  </style:style>
+  <style:style style:name="P43" style:family="paragraph" style:parent-style-name="Definition_20_Heading">
+   <style:text-properties fo:language="en" fo:country="US" officeooo:paragraph-rsid="0031081b"/>
+  </style:style>
+  <style:style style:name="P44" style:family="paragraph" style:parent-style-name="Definition_20_Heading">
+   <style:text-properties fo:language="en" fo:country="US" officeooo:paragraph-rsid="00339c22"/>
+  </style:style>
+  <style:style style:name="P45" style:family="paragraph" style:parent-style-name="Definition_20_Heading">
+   <style:text-properties fo:language="en" fo:country="US" officeooo:rsid="00339c22" officeooo:paragraph-rsid="00339c22"/>
+  </style:style>
+  <style:style style:name="P46" style:family="paragraph" style:parent-style-name="Definition_20_Heading">
+   <style:text-properties fo:language="en" fo:country="US" officeooo:paragraph-rsid="0034f750"/>
+  </style:style>
+  <style:style style:name="P47" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:language="en" fo:country="US" fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P48" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:text-properties fo:language="en" fo:country="US" fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="P42" style:family="paragraph" style:parent-style-name="Heading_20_1">
+  <style:style style:name="P49" style:family="paragraph" style:parent-style-name="Heading_20_1">
    <style:paragraph-properties fo:break-before="page"/>
    <style:text-properties fo:language="en" fo:country="US" officeooo:paragraph-rsid="00339c22"/>
   </style:style>
-  <style:style style:name="P43" style:family="paragraph" style:parent-style-name="Definition_20_Description">
+  <style:style style:name="P50" style:family="paragraph" style:parent-style-name="Definition_20_Description">
    <loext:graphic-properties draw:fill="none"/>
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:text-indent="0cm" style:auto-text-indent="false" fo:background-color="transparent" text:number-lines="false" text:line-number="0">
     <style:tab-stops>
@@ -682,7 +703,7 @@
    </style:paragraph-properties>
    <style:text-properties officeooo:paragraph-rsid="0032e972"/>
   </style:style>
-  <style:style style:name="P44" style:family="paragraph" style:parent-style-name="Definition_20_Description">
+  <style:style style:name="P51" style:family="paragraph" style:parent-style-name="Definition_20_Description">
    <loext:graphic-properties draw:fill="none"/>
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:text-indent="0cm" style:auto-text-indent="false" fo:background-color="transparent" text:number-lines="false" text:line-number="0">
     <style:tab-stops>
@@ -691,7 +712,25 @@
    </style:paragraph-properties>
    <style:text-properties officeooo:paragraph-rsid="0032e972"/>
   </style:style>
-  <style:style style:name="P45" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L3" style:master-page-name="">
+  <style:style style:name="P52" style:family="paragraph" style:parent-style-name="Definition_20_Description">
+   <loext:graphic-properties draw:fill="none"/>
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:text-indent="0cm" style:auto-text-indent="false" fo:background-color="transparent" text:number-lines="false" text:line-number="0">
+    <style:tab-stops>
+     <style:tab-stop style:position="0.485cm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties fo:language="en" fo:country="US" fo:font-weight="normal" officeooo:paragraph-rsid="0032e972" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P53" style:family="paragraph" style:parent-style-name="Definition_20_Description">
+   <loext:graphic-properties draw:fill="none" draw:fill-color="#729fcf"/>
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" fo:line-height="115%" fo:text-indent="0cm" style:auto-text-indent="false" fo:background-color="transparent" text:number-lines="false" text:line-number="0">
+    <style:tab-stops>
+     <style:tab-stop style:position="0.508cm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties fo:language="en" fo:country="US" fo:font-weight="normal" officeooo:rsid="0034f750" officeooo:paragraph-rsid="0034f750" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P54" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L4" style:master-page-name="">
    <loext:graphic-properties draw:fill="none"/>
    <style:paragraph-properties fo:margin-left="0.6cm" fo:margin-right="0cm" fo:text-indent="0cm" style:auto-text-indent="false" style:page-number="auto" fo:background-color="transparent">
     <style:tab-stops>
@@ -700,7 +739,7 @@
    </style:paragraph-properties>
    <style:text-properties fo:language="en" fo:country="US" officeooo:paragraph-rsid="00339c22"/>
   </style:style>
-  <style:style style:name="P46" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L3">
+  <style:style style:name="P55" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L4">
    <loext:graphic-properties draw:fill="none"/>
    <style:paragraph-properties fo:margin-left="0.6cm" fo:margin-right="0cm" fo:text-indent="0cm" style:auto-text-indent="false" fo:background-color="transparent">
     <style:tab-stops>
@@ -709,7 +748,7 @@
    </style:paragraph-properties>
    <style:text-properties fo:language="en" fo:country="US" officeooo:paragraph-rsid="00339c22"/>
   </style:style>
-  <style:style style:name="P47" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L3">
+  <style:style style:name="P56" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L4">
    <loext:graphic-properties draw:fill="none"/>
    <style:paragraph-properties fo:margin-left="0.6cm" fo:margin-right="0cm" fo:text-indent="0cm" style:auto-text-indent="false" fo:background-color="transparent">
     <style:tab-stops>
@@ -718,49 +757,55 @@
    </style:paragraph-properties>
    <style:text-properties fo:language="en" fo:country="US" officeooo:rsid="00339c22" officeooo:paragraph-rsid="00339c22"/>
   </style:style>
-  <style:style style:name="P48" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:text-properties fo:language="en" fo:country="US"/>
+  <style:style style:name="P57" style:family="paragraph" style:parent-style-name="Definition_20_Heading">
+   <style:text-properties fo:language="en" fo:country="US" officeooo:rsid="003639bb" officeooo:paragraph-rsid="003639bb"/>
   </style:style>
-  <style:style style:name="P49" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:text-properties fo:language="en" fo:country="US" officeooo:paragraph-rsid="0009f927"/>
+  <style:style style:name="P58" style:family="paragraph" style:parent-style-name="Definition_20_Heading">
+   <style:text-properties fo:language="en" fo:country="US" fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="P50" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:text-properties fo:language="en" fo:country="US" officeooo:rsid="0031081b" officeooo:paragraph-rsid="00339c22"/>
+  <style:style style:name="P59" style:family="paragraph" style:parent-style-name="Definition_20_Heading">
+   <style:text-properties fo:language="en" fo:country="US" fo:font-weight="bold" officeooo:rsid="003639bb" officeooo:paragraph-rsid="003639bb" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="P51" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:text-properties fo:language="en" fo:country="US" officeooo:rsid="0031081b" officeooo:paragraph-rsid="0034f750"/>
+  <style:style style:name="P60" style:family="paragraph" style:parent-style-name="Definition_20_Heading">
+   <style:text-properties fo:language="en" fo:country="US" fo:font-weight="bold" officeooo:rsid="00339c22" officeooo:paragraph-rsid="00339c22" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="P52" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:text-properties fo:language="en" fo:country="US" officeooo:paragraph-rsid="00339c22"/>
-  </style:style>
-  <style:style style:name="P53" style:family="paragraph" style:parent-style-name="Definition_20_Heading">
-   <style:text-properties fo:language="en" fo:country="US" officeooo:paragraph-rsid="0034f750"/>
-  </style:style>
-  <style:style style:name="P54" style:family="paragraph" style:parent-style-name="Definition_20_Heading">
-   <style:text-properties fo:language="en" fo:country="US" officeooo:rsid="002c8669" officeooo:paragraph-rsid="002c8669"/>
-  </style:style>
-  <style:style style:name="P55" style:family="paragraph" style:parent-style-name="Definition_20_Heading">
+  <style:style style:name="P61" style:family="paragraph" style:parent-style-name="Definition_20_Heading">
    <style:text-properties fo:language="en" fo:country="US" officeooo:rsid="002c8669" officeooo:paragraph-rsid="0034f750"/>
   </style:style>
-  <style:style style:name="P56" style:family="paragraph" style:parent-style-name="Definition_20_Description">
-   <style:text-properties fo:language="en" fo:country="US" fo:font-weight="normal" officeooo:rsid="00339c22" officeooo:paragraph-rsid="00339c22" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  <style:style style:name="P62" style:family="paragraph" style:parent-style-name="Definition_20_Heading">
+   <style:text-properties fo:language="en" fo:country="US" officeooo:rsid="002c8669" officeooo:paragraph-rsid="002c8669"/>
   </style:style>
-  <style:style style:name="P57" style:family="paragraph" style:parent-style-name="Definition_20_Description">
-   <style:text-properties fo:language="en" fo:country="US" fo:font-weight="normal" officeooo:rsid="002c8669" officeooo:paragraph-rsid="00339c22" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  <style:style style:name="P63" style:family="paragraph" style:parent-style-name="Definition_20_Description">
+   <style:text-properties fo:language="en" fo:country="US" fo:font-weight="bold" officeooo:rsid="003639bb" officeooo:paragraph-rsid="003639bb" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="P58" style:family="paragraph" style:parent-style-name="Definition_20_Description">
-   <style:text-properties fo:language="en" fo:country="US" fo:font-weight="bold" officeooo:rsid="002c8669" officeooo:paragraph-rsid="002c8669" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
-  </style:style>
-  <style:style style:name="P59" style:family="paragraph" style:parent-style-name="Definition_20_Description">
+  <style:style style:name="P64" style:family="paragraph" style:parent-style-name="Definition_20_Description">
    <style:text-properties fo:language="en" fo:country="US" fo:font-weight="bold" officeooo:rsid="0034f750" officeooo:paragraph-rsid="0034f750" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="P60" style:family="paragraph" style:parent-style-name="Definition_20_Description">
-   <style:text-properties style:text-underline-style="none" officeooo:rsid="00339c22" officeooo:paragraph-rsid="00339c22"/>
+  <style:style style:name="P65" style:family="paragraph" style:parent-style-name="Definition_20_Description">
+   <style:text-properties fo:language="en" fo:country="US" fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="P61" style:family="paragraph" style:parent-style-name="Definition_20_Description">
-   <style:text-properties officeooo:paragraph-rsid="0034f750"/>
+  <style:style style:name="P66" style:family="paragraph" style:parent-style-name="Definition_20_Description">
+   <style:text-properties fo:language="en" fo:country="US" fo:font-weight="normal" officeooo:rsid="003639bb" officeooo:paragraph-rsid="003639bb" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="P62" style:family="paragraph" style:parent-style-name="Definition_20_Description" style:list-style-name="L1">
+  <style:style style:name="P67" style:family="paragraph" style:parent-style-name="Definition_20_Description" style:list-style-name="L1">
+   <loext:graphic-properties draw:fill="none" draw:fill-color="#729fcf"/>
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" fo:line-height="115%" fo:text-indent="0cm" style:auto-text-indent="false" fo:background-color="transparent" text:number-lines="false" text:line-number="0">
+    <style:tab-stops>
+     <style:tab-stop style:position="0.508cm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties fo:language="en" fo:country="US" fo:font-weight="normal" officeooo:rsid="0034f750" officeooo:paragraph-rsid="0034f750" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P68" style:family="paragraph" style:parent-style-name="Definition_20_Description" style:list-style-name="L5">
+   <loext:graphic-properties draw:fill="none" draw:fill-color="#729fcf"/>
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" fo:line-height="115%" fo:text-indent="0cm" style:auto-text-indent="false" fo:background-color="transparent" text:number-lines="false" text:line-number="0">
+    <style:tab-stops>
+     <style:tab-stop style:position="0.508cm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties fo:language="en" fo:country="US" fo:font-weight="normal" officeooo:rsid="00382852" officeooo:paragraph-rsid="00382852" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P69" style:family="paragraph" style:parent-style-name="Definition_20_Description" style:list-style-name="L2">
    <loext:graphic-properties draw:fill="none"/>
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:text-indent="0cm" style:auto-text-indent="false" fo:background-color="transparent" text:number-lines="false" text:line-number="0">
     <style:tab-stops>
@@ -769,7 +814,7 @@
    </style:paragraph-properties>
    <style:text-properties officeooo:paragraph-rsid="0032e972"/>
   </style:style>
-  <style:style style:name="P63" style:family="paragraph" style:parent-style-name="Definition_20_Description" style:list-style-name="L2">
+  <style:style style:name="P70" style:family="paragraph" style:parent-style-name="Definition_20_Description" style:list-style-name="L3">
    <loext:graphic-properties draw:fill="none"/>
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:text-indent="0cm" style:auto-text-indent="false" fo:background-color="transparent" text:number-lines="false" text:line-number="0">
     <style:tab-stops>
@@ -778,14 +823,30 @@
    </style:paragraph-properties>
    <style:text-properties fo:language="en" fo:country="US" fo:font-weight="normal" officeooo:paragraph-rsid="0032e972" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="P64" style:family="paragraph" style:parent-style-name="Definition_20_Description" style:list-style-name="L4">
-   <loext:graphic-properties draw:fill="none" draw:fill-color="#729fcf"/>
-   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" fo:line-height="115%" fo:text-indent="0cm" style:auto-text-indent="false" fo:background-color="transparent" text:number-lines="false" text:line-number="0">
-    <style:tab-stops>
-     <style:tab-stop style:position="0.508cm"/>
-    </style:tab-stops>
+  <style:style style:name="P71" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties fo:language="en" fo:country="US"/>
+  </style:style>
+  <style:style style:name="P72" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties fo:language="en" fo:country="US" officeooo:paragraph-rsid="0009f927"/>
+  </style:style>
+  <style:style style:name="P73" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties fo:language="en" fo:country="US" officeooo:rsid="0031081b" officeooo:paragraph-rsid="00339c22"/>
+  </style:style>
+  <style:style style:name="P74" style:family="paragraph" style:parent-style-name="Heading_20_1" style:list-style-name="">
+   <style:paragraph-properties>
+    <style:tab-stops/>
    </style:paragraph-properties>
-   <style:text-properties fo:language="en" fo:country="US" fo:font-weight="normal" officeooo:rsid="0034f750" officeooo:paragraph-rsid="0034f750" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+   <style:text-properties fo:language="en" fo:country="US" officeooo:rsid="0031081b" officeooo:paragraph-rsid="0034f750"/>
+  </style:style>
+  <style:style style:name="P75" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties fo:language="en" fo:country="US" officeooo:paragraph-rsid="00339c22"/>
+  </style:style>
+  <style:style style:name="P76" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties fo:language="en" fo:country="US" officeooo:rsid="003639bb" officeooo:paragraph-rsid="003639bb"/>
+  </style:style>
+  <style:style style:name="P77" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:paragraph-properties fo:break-before="page"/>
+   <style:text-properties fo:language="en" fo:country="US" officeooo:rsid="0031081b" officeooo:paragraph-rsid="0034f750"/>
   </style:style>
   <style:style style:name="T1" style:family="text">
    <style:text-properties officeooo:rsid="0004db63"/>
@@ -1022,6 +1083,58 @@
    </text:list-level-style-bullet>
   </text:list-style>
   <text:list-style style:name="L4">
+   <text:list-level-style-bullet text:level="1" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.27cm" fo:text-indent="-0.635cm" fo:margin-left="1.27cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="Bullet_20_Symbols" text:bullet-char="◦">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.905cm" fo:text-indent="-0.635cm" fo:margin-left="1.905cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="Bullet_20_Symbols" text:bullet-char="▪">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.54cm" fo:text-indent="-0.635cm" fo:margin-left="2.54cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.175cm" fo:text-indent="-0.635cm" fo:margin-left="3.175cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Bullet_20_Symbols" text:bullet-char="◦">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.81cm" fo:text-indent="-0.635cm" fo:margin-left="3.81cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="Bullet_20_Symbols" text:bullet-char="▪">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="4.445cm" fo:text-indent="-0.635cm" fo:margin-left="4.445cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.08cm" fo:text-indent="-0.635cm" fo:margin-left="5.08cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Bullet_20_Symbols" text:bullet-char="◦">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.715cm" fo:text-indent="-0.635cm" fo:margin-left="5.715cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="Bullet_20_Symbols" text:bullet-char="▪">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.35cm" fo:text-indent="-0.635cm" fo:margin-left="6.35cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.985cm" fo:text-indent="-0.635cm" fo:margin-left="6.985cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+  </text:list-style>
+  <text:list-style style:name="L5">
    <text:list-level-style-bullet text:level="1" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
     <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
      <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.27cm" fo:text-indent="-0.635cm" fo:margin-left="1.27cm"/>
@@ -21147,64 +21260,56 @@
      </office:binary-data>
     </draw:image>
    </draw:frame>
-   <text:h text:style-name="P11" text:outline-level="1">Personal information</text:h>
+   <text:h text:style-name="P76" text:outline-level="1">Dávid Gábor Bodor</text:h>
    <table:table table:name="Table2" table:style-name="Table2">
     <table:table-column table:style-name="Table2.A"/>
     <table:table-column table:style-name="Table2.B"/>
     <table:table-row>
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P35">Name:</text:p>
+      <text:p text:style-name="P59">Location:</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P20">Dávid Gábor Bodor</text:p>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row>
-     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P35">Address:</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P20">Hungary, 1214 Budapest, Béke tér 8. fsz. 2</text:p>
+      <text:p text:style-name="P66">Budapest, Hungary</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P35">E-mail:</text:p>
+      <text:p text:style-name="P58">E-mail:</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P20">david.gabor.bodor@gmail.com</text:p>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row>
-     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P35">Telephone:</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P20">+3630/306-7283</text:p>
+      <text:p text:style-name="P65">david.gabor.bodor@gmail.com</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P35">GitHub:</text:p>
+      <text:p text:style-name="P58">Telephone:</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="Definition_20_Description"><text:a xlink:type="simple" xlink:href="http://www.github.com/dragonfi" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T6">http://www.github.com/dragonfi</text:span></text:a></text:p>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row>
-     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P35">LinkedIn:</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="Definition_20_Description"><text:a xlink:type="simple" xlink:href="https://www.linkedin.com/in/david-gabor-bodor" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T6">https://www.linkedin.com/in/david-gabor-bodor</text:span></text:a></text:p>
+      <text:p text:style-name="P65">+3630/306-7283</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P39">Website:</text:p>
+      <text:p text:style-name="P58">GitHub:</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P33"><text:a xlink:type="simple" xlink:href="https://dragonfi.github.io/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://dragonfi.github.io</text:a></text:p>
+      <text:p text:style-name="Definition_20_Description"><text:a xlink:type="simple" xlink:href="http://www.github.com/dragonfi" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T12">http://www.github.com/dragonfi</text:span></text:a></text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row>
+     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
+      <text:p text:style-name="P58">LinkedIn:</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
+      <text:p text:style-name="Definition_20_Description"><text:a xlink:type="simple" xlink:href="https://www.linkedin.com/in/david-gabor-bodor" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T12">https://www.linkedin.com/in/david-gabor-bodor</text:span></text:a></text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row>
+     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
+      <text:p text:style-name="P60">Website:</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
+      <text:p text:style-name="P36"><text:a xlink:type="simple" xlink:href="https://dragonfi.github.io/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T18">https://dragonfi.github.io</text:span></text:a></text:p>
      </table:table-cell>
     </table:table-row>
    </table:table>
@@ -21214,18 +21319,18 @@
     <table:table-column table:style-name="Table7.B"/>
     <table:table-row>
      <table:table-cell table:style-name="Table7.A1" office:value-type="string">
-      <text:p text:style-name="P39">Hungarian:</text:p>
+      <text:p text:style-name="P45">Hungarian:</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table7.A1" office:value-type="string">
-      <text:p text:style-name="P28">native language</text:p>
+      <text:p text:style-name="P30">native language</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="Table7.A1" office:value-type="string">
-      <text:p text:style-name="P39">English:</text:p>
+      <text:p text:style-name="P45">English:</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table7.A1" office:value-type="string">
-      <text:p text:style-name="P60">fluent (speaking, reading, writing)</text:p>
+      <text:p text:style-name="P37">fluent (speaking, reading, writing)</text:p>
      </table:table-cell>
     </table:table-row>
    </table:table>
@@ -21235,166 +21340,188 @@
     <table:table-column table:style-name="Table3.B"/>
     <table:table-row>
      <table:table-cell table:style-name="Table3.A1" office:value-type="string">
-      <text:p text:style-name="P55">201<text:span text:style-name="T25">9</text:span>:</text:p>
+      <text:p text:style-name="P57">2019-2020:</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table3.A1" office:value-type="string">
-      <text:p text:style-name="P59">Software Development Mentor at Green Fox Academy</text:p>
+      <text:p text:style-name="P63">Software Developer at Craftunique</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="Table3.A1" office:value-type="string">
-      <text:p text:style-name="P36"/>
+      <text:p text:style-name="P42"/>
      </table:table-cell>
      <table:table-cell table:style-name="Table3.A1" office:value-type="string">
-      <text:list xml:id="list1715458104" text:style-name="L4">
+      <text:p text:style-name="P66">Developing slicer software for 3d printing.</text:p>
+      <text:list xml:id="list4206150030" text:style-name="L5">
+       <text:list-item>
+        <text:p text:style-name="P68">Extensive use of OpenGL, matrix math and geometry</text:p>
+       </text:list-item>
+      </text:list>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row>
+     <table:table-cell table:style-name="Table3.A1" office:value-type="string">
+      <text:p text:style-name="P42">201<text:span text:style-name="T25">9</text:span>:</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table3.A1" office:value-type="string">
+      <text:p text:style-name="P27">Software Development Mentor at Green Fox Academy</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row>
+     <table:table-cell table:style-name="Table3.A1" office:value-type="string">
+      <text:p text:style-name="P41"/>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table3.A1" office:value-type="string">
+      <text:list xml:id="list1704381812" text:style-name="L1">
        <text:list-header>
-        <text:p text:style-name="P64">Teaching software development to career changers in a boot-camp format</text:p>
+        <text:p text:style-name="P67">Teaching software development to career changers in a boot-camp format</text:p>
        </text:list-header>
        <text:list-item>
-        <text:p text:style-name="P64">1-on-1 mentoring, presenting daily topic to class, improving teaching materials</text:p>
+        <text:p text:style-name="P67">1-on-1 mentoring, presenting daily topic to class, improving teaching materials</text:p>
        </text:list-item>
        <text:list-item>
-        <text:p text:style-name="P64">Also held training for seasoned software developers on Git</text:p>
+        <text:p text:style-name="P67">Also held training for seasoned software developers on Git</text:p>
        </text:list-item>
       </text:list>
      </table:table-cell>
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="Table3.A1" office:value-type="string">
-      <text:p text:style-name="P36">2017-2018:</text:p>
+      <text:p text:style-name="P41">2017-2018:</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table3.A1" office:value-type="string">
-      <text:p text:style-name="P24">Software Engineer at NNG</text:p>
+      <text:p text:style-name="P25">Software Engineer at NNG</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="Table3.A1" office:value-type="string">
-      <text:p text:style-name="P36"/>
+      <text:p text:style-name="P41"/>
      </table:table-cell>
      <table:table-cell table:style-name="Table3.A1" office:value-type="string">
-      <text:p text:style-name="P57">Porting automotive navigation software to a wide range of embedded devices (Android, QNX, Linux, Windows CE).</text:p>
-      <text:list xml:id="list399325764" text:style-name="L1">
+      <text:p text:style-name="P31">Porting automotive navigation software to a wide range of embedded devices (Android, QNX, Linux, Windows CE).</text:p>
+      <text:list xml:id="list122480853" text:style-name="L2">
        <text:list-item>
-        <text:p text:style-name="P62"><text:span text:style-name="T14">W</text:span><text:span text:style-name="T13">riting an audio compatibility layer for a particularly quirky Linux device.</text:span></text:p>
+        <text:p text:style-name="P69"><text:span text:style-name="T14">W</text:span><text:span text:style-name="T13">riting an audio compatibility layer for a particularly quirky Linux device.</text:span></text:p>
        </text:list-item>
        <text:list-item>
-        <text:p text:style-name="P62"><text:span text:style-name="T14">H</text:span><text:span text:style-name="T15">olding</text:span><text:span text:style-name="T13"> </text:span><text:span text:style-name="T14">a 3+ month </text:span><text:span text:style-name="T13">in-house Python training.</text:span></text:p>
-       </text:list-item>
-      </text:list>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row>
-     <table:table-cell table:style-name="Table3.A1" office:value-type="string">
-      <text:p text:style-name="P35">2015-2017:</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table3.A1" office:value-type="string">
-      <text:p text:style-name="P23">Software Engineer at Balabit</text:p>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row>
-     <table:table-cell table:style-name="Table3.A1" office:value-type="string">
-      <text:p text:style-name="P35"/>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table3.A1" office:value-type="string">
-      <text:p text:style-name="P27">Developing security application in Python and Scala. The application utilizes machine-learning to find potentially malicious activity <text:span text:style-name="T21">in</text:span> multiple streams of data, such as server and session logs, location data, etc.</text:p>
-      <text:list xml:id="list382856682" text:style-name="L2">
-       <text:list-item>
-        <text:p text:style-name="P63">Working closely with data scientists on testing, implementing and optimizing certain algorithms.</text:p>
+        <text:p text:style-name="P69"><text:span text:style-name="T14">H</text:span><text:span text:style-name="T15">olding</text:span><text:span text:style-name="T13"> </text:span><text:span text:style-name="T14">a 3+ month </text:span><text:span text:style-name="T13">in-house Python training.</text:span></text:p>
        </text:list-item>
       </text:list>
      </table:table-cell>
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="Table3.A1" office:value-type="string">
-      <text:p text:style-name="P35">2014-2015:</text:p>
+      <text:p text:style-name="P40">2015-2017:</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="Table3.B7" office:value-type="string">
-      <text:p text:style-name="P23">Python Developer as a Freelancer</text:p>
+     <table:table-cell table:style-name="Table3.A1" office:value-type="string">
+      <text:p text:style-name="P24">Software Engineer at Balabit</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="Table3.A1" office:value-type="string">
-      <text:p text:style-name="P35"/>
+      <text:p text:style-name="P40"/>
      </table:table-cell>
-     <table:table-cell table:style-name="Table3.B7" office:value-type="string">
-      <text:p text:style-name="P41"><text:bookmark text:name="ember995"/>Various small projects done remotely. Mostly in Python.</text:p>
+     <table:table-cell table:style-name="Table3.A1" office:value-type="string">
+      <text:p text:style-name="P29">Developing security application in Python and Scala. The application utilizes machine-learning to find potentially malicious activity <text:span text:style-name="T21">in</text:span> multiple streams of data, such as server and session logs, location data, etc.</text:p>
+      <text:list xml:id="list82094393" text:style-name="L3">
+       <text:list-item>
+        <text:p text:style-name="P70">Working closely with data scientists on testing, implementing and optimizing certain algorithms.</text:p>
+       </text:list-item>
+      </text:list>
      </table:table-cell>
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="Table3.A1" office:value-type="string">
-      <text:p text:style-name="P35">2012-2014:</text:p>
+      <text:p text:style-name="P40">2014-2015:</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="Table3.B7" office:value-type="string">
-      <text:p text:style-name="P23">Software Engineer at Nokia Solutions and Networks</text:p>
+     <table:table-cell table:style-name="Table3.B9" office:value-type="string">
+      <text:p text:style-name="P24">Python Developer as a Freelancer</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="Table3.A1" office:value-type="string">
-      <text:p text:style-name="P35"/>
+      <text:p text:style-name="P40"/>
      </table:table-cell>
-     <table:table-cell table:style-name="Table3.B7" office:value-type="string">
-      <text:p text:style-name="P40"><text:bookmark text:name="ember1006"/><text:span text:style-name="T18">Home Location Register (a mobile telecommunication server) development done mainly in C++, following agile p</text:span><text:span text:style-name="T20">r</text:span><text:span text:style-name="T18">a</text:span><text:span text:style-name="T20">c</text:span><text:span text:style-name="T18">tices like Scrum and Test Driven Development.</text:span></text:p>
+     <table:table-cell table:style-name="Table3.B9" office:value-type="string">
+      <text:p text:style-name="P48"><text:bookmark text:name="ember995"/>Various small projects done remotely. Mostly in Python.</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row>
+     <table:table-cell table:style-name="Table3.A1" office:value-type="string">
+      <text:p text:style-name="P40">2012-2014:</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table3.B9" office:value-type="string">
+      <text:p text:style-name="P24">Software Engineer at Nokia Solutions and Networks</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row>
+     <table:table-cell table:style-name="Table3.A1" office:value-type="string">
+      <text:p text:style-name="P40"/>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table3.B9" office:value-type="string">
+      <text:p text:style-name="P47"><text:bookmark text:name="ember1006"/><text:span text:style-name="T18">Home Location Register (a mobile telecommunication server) development done mainly in C++, following agile p</text:span><text:span text:style-name="T20">r</text:span><text:span text:style-name="T18">a</text:span><text:span text:style-name="T20">c</text:span><text:span text:style-name="T18">tices like Scrum and Test Driven Development.</text:span></text:p>
      </table:table-cell>
     </table:table-row>
    </table:table>
-   <text:h text:style-name="P51" text:outline-level="1">Volunteer experience</text:h>
+   <text:h text:style-name="P74" text:outline-level="1"/>
+   <text:h text:style-name="P77" text:outline-level="1">Volunteer experience</text:h>
    <table:table table:name="Table4" table:style-name="Table4">
     <table:table-column table:style-name="Table4.A"/>
     <table:table-column table:style-name="Table4.B"/>
     <table:table-row>
      <table:table-cell table:style-name="Table4.A1" office:value-type="string">
-      <text:p text:style-name="P53">2015-<text:span text:style-name="T16">2018</text:span>:</text:p>
+      <text:p text:style-name="P46">2015-<text:span text:style-name="T16">2018</text:span>:</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table4.A1" office:value-type="string">
-      <text:p text:style-name="P61"><text:span text:style-name="T9">Volunteer </text:span><text:span text:style-name="T8">Mentor at </text:span><text:span text:style-name="T10">Technológiai Oktatásért Alapítvány</text:span></text:p>
+      <text:p text:style-name="P38"><text:span text:style-name="T9">Volunteer </text:span><text:span text:style-name="T8">Mentor at </text:span><text:span text:style-name="T10">Technológiai Oktatásért Alapítvány</text:span></text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="Table4.A1" office:value-type="string">
-      <text:p text:style-name="P53"/>
+      <text:p text:style-name="P46"/>
      </table:table-cell>
      <table:table-cell table:style-name="Table4.A1" office:value-type="string">
-      <text:p text:style-name="P61"><text:span text:style-name="T23">Mentoring kids (8-18) as they learn the basics of programming in </text:span><text:a xlink:type="simple" xlink:href="http://skool.org.hu/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">Skool</text:a><text:span text:style-name="T23">, </text:span><text:a xlink:type="simple" xlink:href="http://kodgarazs.hu/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">Kódgarázs</text:a><text:span text:style-name="T23"> and </text:span><text:a xlink:type="simple" xlink:href="http://kodklub.org/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">Kódklub</text:a><text:span text:style-name="T23"> projects.</text:span></text:p>
+      <text:p text:style-name="P38"><text:span text:style-name="T23">Mentoring kids (8-18) as they learn the basics of programming in </text:span><text:a xlink:type="simple" xlink:href="http://skool.org.hu/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">Skool</text:a><text:span text:style-name="T23">, </text:span><text:a xlink:type="simple" xlink:href="http://kodgarazs.hu/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">Kódgarázs</text:a><text:span text:style-name="T23"> and </text:span><text:a xlink:type="simple" xlink:href="http://kodklub.org/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">Kódklub</text:a><text:span text:style-name="T23"> projects.</text:span></text:p>
      </table:table-cell>
     </table:table-row>
    </table:table>
-   <text:h text:style-name="P16" text:outline-level="1"><text:soft-page-break/>Education</text:h>
+   <text:h text:style-name="P17" text:outline-level="1">Education</text:h>
    <table:table table:name="Table5" table:style-name="Table5">
     <table:table-column table:style-name="Table5.A"/>
     <table:table-column table:style-name="Table5.B"/>
     <table:table-row>
      <table:table-cell table:style-name="Table5.A1" office:value-type="string">
-      <text:p text:style-name="P38">2009-2012:</text:p>
+      <text:p text:style-name="P44">2009-2012:</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table5.A1" office:value-type="string">
-      <text:p text:style-name="P29">Physicist Msc, Science University of Pécs</text:p>
+      <text:p text:style-name="P32">Physicist Msc, Science University of Pécs</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="Table5.A1" office:value-type="string">
-      <text:p text:style-name="P38">2006-2009:</text:p>
+      <text:p text:style-name="P44">2006-2009:</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table5.B2" office:value-type="string">
-      <text:p text:style-name="P29">Physics Bsc, Science University of Pécs</text:p>
+      <text:p text:style-name="P32">Physics Bsc, Science University of Pécs</text:p>
      </table:table-cell>
     </table:table-row>
    </table:table>
-   <text:h text:style-name="P16" text:outline-level="1">Skills and competencies</text:h>
-   <text:list xml:id="list1792990717" text:style-name="L3">
+   <text:h text:style-name="P17" text:outline-level="1">Skills and competencies</text:h>
+   <text:list xml:id="list1350342995" text:style-name="L4">
     <text:list-item>
-     <text:p text:style-name="P45">Test Driven Development, Agile practices</text:p>
+     <text:p text:style-name="P54">Test Driven Development, Agile practices</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P46">Linux, UNIX systems</text:p>
+     <text:p text:style-name="P55">Linux, UNIX systems</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P46"><text:span text:style-name="T16">Python, Scala, Go, Clojure, </text:span>C, C++</text:p>
+     <text:p text:style-name="P55"><text:span text:style-name="T16">Python, Scala, Go, Clojure, </text:span>C, C++</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P46">Elm, JavaScript, HTML5, Django, <text:span text:style-name="T24">Flask</text:span></text:p>
+     <text:p text:style-name="P55">Elm, JavaScript, HTML5, Django, <text:span text:style-name="T24">Flask</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P47">Git</text:p>
+     <text:p text:style-name="P56">Git</text:p>
     </text:list-item>
    </text:list>
    <text:h text:style-name="P15" text:outline-level="1">Notable Gigs</text:h>
@@ -21403,26 +21530,26 @@
     <table:table-column table:style-name="Table1.B"/>
     <table:table-row>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P39">2014:</text:p>
+      <text:p text:style-name="P45">2014:</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P33">Creating open-source plugins for edx-platform, a learning portal engine written in Django.</text:p>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row>
-     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P37">2011:</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P30"><text:span text:style-name="T6">Remote work experience, created website </text:span><text:a xlink:type="simple" xlink:href="http://www.manna.sk/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">http://www.manna.sk</text:a></text:p>
+      <text:p text:style-name="P36">Creating open-source plugins for edx-platform, a learning portal engine written in Django.</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P37">2010:</text:p>
+      <text:p text:style-name="P43">2011:</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P26">Physics tutoring as a student at Science University of Péc<text:span text:style-name="T3">s</text:span></text:p>
+      <text:p text:style-name="P33"><text:span text:style-name="T6">Remote work experience, created website </text:span><text:a xlink:type="simple" xlink:href="http://www.manna.sk/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">http://www.manna.sk</text:a></text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P43">2010:</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P28">Physics tutoring as a student at Science University of Péc<text:span text:style-name="T3">s</text:span></text:p>
      </table:table-cell>
     </table:table-row>
    </table:table>
@@ -21432,7 +21559,7 @@
     <table:table-column table:style-name="Table6.B"/>
     <table:table-row>
      <table:table-cell table:style-name="Table6.A1" office:value-type="string">
-      <text:p text:style-name="P35">2015:</text:p>
+      <text:p text:style-name="P40">2015:</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table6.A1" office:value-type="string">
       <text:p text:style-name="Definition_20_Description"><text:a xlink:type="simple" xlink:href="https://www.edx.org/course/introduction-aerospace-engineering-mitx-16-00x-0" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T6">edX 16.00x Introduction to Aerospace Engineering: Astronautics and Human Spaceflight</text:span></text:a></text:p>
@@ -21440,7 +21567,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="Table6.A1" office:value-type="string">
-      <text:p text:style-name="P35">2012:</text:p>
+      <text:p text:style-name="P40">2012:</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table6.B2" office:value-type="string">
       <text:p text:style-name="Definition_20_Description"><text:a xlink:type="simple" xlink:href="https://www.edx.org/course/uc-berkeleyx/uc-berkeleyx-cs188-1x-artificial-579" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T6">edX CS188.1x Artificial Intelligence course</text:span></text:a></text:p>
@@ -21448,22 +21575,22 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="Table6.A1" office:value-type="string">
-      <text:p text:style-name="P35">2006:</text:p>
+      <text:p text:style-name="P40">2006:</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table6.B2" office:value-type="string">
-      <text:p text:style-name="P21">European Computer Driving License</text:p>
+      <text:p text:style-name="P22">European Computer Driving License</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="Table6.A1" office:value-type="string">
-      <text:p text:style-name="P35">2005:</text:p>
+      <text:p text:style-name="P40">2005:</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table6.B2" office:value-type="string">
-      <text:p text:style-name="P21">Computer Software Operator and Web Designer</text:p>
+      <text:p text:style-name="P22">Computer Software Operator and Web Designer</text:p>
      </table:table-cell>
     </table:table-row>
    </table:table>
-   <text:p text:style-name="P34"/>
+   <text:p text:style-name="P39"/>
   </office:text>
  </office:body>
 </office:document>
